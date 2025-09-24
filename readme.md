@@ -14,8 +14,8 @@
 
 ### 👨‍💻 About Me
 - 🎓 3rd-year Computer Science student, passionate about *Android Development & AI*  
-- 💡 Skilled in *Kotlin, Jetpack Compose, FastAPI, and automation tools*  
-- 🤖 Exploring *Machine Learning, Deep Learning, and Computer Vision*  
+- 💡 Skilled in *reactjs, nodejs, expressjs, and postgresql*  
+- 🤖 Exploring *machine learning and data analytics, and Computer Vision*  
 - 🚀 Always learning, building, and sharing innovative projects  
 - 🌐 Open to *internship opportunities & collaborations*  
 
